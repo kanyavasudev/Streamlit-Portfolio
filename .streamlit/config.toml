@@ -1,0 +1,7 @@
+[theme]
+base = "light"
+primaryColor = "#06B6D4"          # Cyan (tech, modern, trustworthy)
+backgroundColor = "#F8FAFC"       # Very light grey (reduced eye strain)
+secondaryBackgroundColor = "#E2E8F0"  # Light slate grey (clear sections)
+textColor = "#0F172A"             # Deep navy (strong contrast)
+font = "sans serif"

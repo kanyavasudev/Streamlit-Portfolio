@@ -1,0 +1,77 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300;400;500;600;700&display=swap');
+
+
+* {font-family: 'Readex Pro';}
+
+/* ---------- Headings ---------- */
+h1, h2 {
+    color: teal;
+    font-weight: 600;
+}
+
+h1 {
+    font-size: 2.2rem;
+}
+
+h2 {
+    margin-top: 2rem;
+    border-bottom: 1px solid #e5e7eb;
+    padding-bottom: 0.4rem;
+}
+
+/* ---------- Links ---------- */
+a {
+    color: teal;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #d33682 !important;
+    text-decoration: none;
+}
+
+/* ---------- Buttons ---------- */
+.stButton > button {
+    background-color: #2563eb;
+    color: white;
+    border-radius: 6px;
+    padding: 0.45rem 1rem;
+    border: none;
+    font-size: 0.9rem;
+}
+
+.stButton > button:hover {
+    background-color: #1e40af;
+}
+
+.profile_pic{
+    border-radius: 14px;
+    width: 220px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+}
+
+/* ---------- Resume Download Button ---------- */
+a.download-btn {
+    display: inline-block;
+    margin-top: 10px;
+    background: #2563eb;
+    color: #ffffff !important;
+    padding: 8px 14px;
+    border-radius: 6px;
+    font-size: 0.9rem;
+}
+
+/* ---------- Sections ---------- */
+section {
+    margin-bottom: 2rem;
+}
+
+/* ---------- Project Links ---------- */
+.project-link {
+    font-weight: 500;
+}
+
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+header {visibility: hidden;}
