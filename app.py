@@ -10,7 +10,7 @@ profile_pic = current_dir / "assests" / "kanya_profile_pic.png"
 
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "Kanya V | Business Analyst"
-PAGE_ICON = "📊"
+PAGE_ICON = "💼"
 NAME = "Kanya V"
 
 DESCRIPTION = """
@@ -153,7 +153,7 @@ st.write("""
 
 # --- PROJECTS ---
 st.write("---")
-st.subheader("🚀 Projects")
+st.subheader("Projects")
 
 # Project 1 - CMRL
 with st.container():
@@ -256,7 +256,7 @@ st.caption("2018 – 2022 | CGPA: 8.15 / 10")
 
 # --- CONTACT ---
 st.write("---")
-st.subheader("📬 Get In Touch")
+st.subheader("Get In Touch")
 st.write(f"📧 {EMAIL}")
 st.write(f"[LinkedIn]({SOCIAL_MEDIA['LinkedIn']}) | [GitHub]({SOCIAL_MEDIA['GitHub']})")
 st.caption("Open to Business Analyst, Data Analyst, and Analytics roles in Chennai.")
