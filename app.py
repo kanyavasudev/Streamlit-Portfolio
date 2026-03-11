@@ -14,12 +14,10 @@ PAGE_ICON = "💼"
 NAME = "Kanya V"
 
 DESCRIPTION = """
-**Business Analyst** with 2+ years of experience in requirement gathering,
-stakeholder communication, KPI tracking, and insight generation.
-
-Skilled in bridging the gap between business teams and developers —
-translating client needs into structured requirements and actionable reports.
-Hands-on with **SQL, Power BI, Python, Excel, and GA4**.
+CS graduate with 2+ years of hands-on experience in marketing analytics, KPI reporting, and performance analysis.
+Proficient in GA4, Excel, Power BI, and SQL — with a proven track record of improving organic traffic by 40% and
+contributing to a 25% increase in inbound leads through data-driven decisions. Independently built and analyzed a
+3-year government dataset to uncover behavioral trends. Seeking a Marketing Analyst role where data meets strategy.
 """
 
 EMAIL = "kanyavasu7@gmail.com"
@@ -119,7 +117,7 @@ st.write("---")
 st.subheader("💼 Professional Experience")
 
 # Job 1
-st.markdown("**Freelance Business Analyst / Marketing Insights Consultant**")
+st.markdown("**Freelance Marketing Analyst**")
 st.caption("May 2025 – Present | Chennai, India")
 st.write("""
 - Engaged directly with clients to gather business goals, define scope, and translate requirements into functional specs for developers  
